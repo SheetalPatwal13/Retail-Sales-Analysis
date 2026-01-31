@@ -80,3 +80,5 @@ The goal of this project is to demonstrate strong SQL fundamentals including **d
    ```sql
    CREATE DATABASE retail_sales_project;
    USE retail_sales_project;
+3. Create the table and insert data
+4. Run analysis queries from the SQL file
